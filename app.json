@@ -10,6 +10,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "pe.edu.pam.donina.pushlab",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -18,8 +20,15 @@
       },
       "predictiveBackGestureEnabled": false
     },
+    "plugins": ["expo-notifications"],
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "83279a23-4bb0-4e7e-b11f-f3ff5fcad479"
+      }
+    },
+    "owner": "donina"
   }
 }

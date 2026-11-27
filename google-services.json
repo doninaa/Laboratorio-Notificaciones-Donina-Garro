@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64538638839",
+    "project_id": "pam-push---donina-garro",
+    "storage_bucket": "pam-push---donina-garro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64538638839:android:f0ee9776230ac7752356f2",
+        "android_client_info": {
+          "package_name": "pe.edu.pam.donina.pushlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFc8My_edcSkFpaz2tGUDeulB6xtKyDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
